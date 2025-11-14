@@ -73,7 +73,7 @@ xgrid();
 <img width="1662" height="991" alt="image" src="https://github.com/user-attachments/assets/13651c35-ad2b-4bd8-907e-1c4b71d3a657" />
 
 ## MANUAL CALCULATION
-<img width="940" height="646" alt="image" src="https://github.com/user-attachments/assets/ce6f53d2-9238-4355-b9ba-1a8ce0b429cb" />
+<img width="940" height="1366" alt="image" src="https://github.com/user-attachments/assets/aba3dbe2-1117-4c3e-b12f-7e8e4c5ae7bf" />
 
 ## RESULT
 Thus, the maximum range of a radar system using the Radar Range Equation is verified through a Scilab program.
